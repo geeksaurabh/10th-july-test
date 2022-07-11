@@ -1,0 +1,33 @@
+.row {
+  align-items: center;
+  justify-content: center;
+  background-color: #b51b43;
+
+  padding: 10px;
+}
+
+.col {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fed;
+  padding: 5px;
+}
+
+#c1 {
+  width: 500px;
+  margin-top: 170px;
+}
+button {
+  padding: 10px;
+  background-color: darkcyan;
+  color: white;
+  font-size: 100px;
+}
+#btn {
+  font-size: 20px;
+  font-weight: 500;
+}
+* {
+  font-family: "Baloo Bhaijaan 2", cursive;
+}
